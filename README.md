@@ -14,9 +14,9 @@ Implement proper statistical methodology for trustworthy conclusions
 
 ## Technical Approach
 ### Data Analysis Workflow:
-Data Preparation: Cleaned and explored 20,000 user interaction records
+**Data Preparation:** Cleaned and explored 20,000 user interaction records
 
-Descriptive Analysis: Calculated baseline CTR metrics for both groups
+**Descriptive Analysis:** Calculated baseline CTR metrics for both groups
 
 **Statistical Testing:**
 
@@ -28,7 +28,7 @@ Evaluated both statistical and practical significance
 
 Visualization: Created intuitive plots to communicate results
 
-Key Statistical Concepts Applied:
+### Key Statistical Concepts Applied:
 Hypothesis testing (Null vs Alternative)
 
 Statistical significance (α = 0.05)
@@ -41,21 +41,21 @@ Pooled variance estimation
 
 Gaussian distribution visualization
 
-Tools Used
-Python: Primary analysis language
+## Tools Used
+**Python:** Primary analysis language
 
-Pandas: Data manipulation and cleaning
+**Pandas:** Data manipulation and cleaning
 
-NumPy: Numerical computations
+**NumPy:** Numerical computations
 
-SciPy: Statistical functions and hypothesis testing
+**SciPy:** Statistical functions and hypothesis testing
 
-Matplotlib/Seaborn: Data visualization
+**Matplotlib/Seaborn:** Data visualization
 
-Jupyter Notebook: Interactive analysis environment
+**Jupyter Notebook:** Interactive analysis environment
 
-Skills Demonstrated
-Statistical Analysis:
+## Skills Demonstrated
+### Statistical Analysis:**
 
 Hypothesis formulation and testing
 
@@ -65,7 +65,7 @@ P-value interpretation
 
 Confidence interval calculation
 
-Data Visualization:
+### Data Visualization:
 
 Click distribution analysis
 
@@ -73,7 +73,7 @@ Gaussian distribution with rejection regions
 
 Confidence interval plots
 
-Experimental Design:
+### Experimental Design:
 
 Proper A/B test setup
 
@@ -81,7 +81,7 @@ Sample size consideration
 
 Practical significance evaluation
 
-Business Insight Translation:
+### Business Insight Translation:
 
 Statistical results to business recommendations
 
@@ -89,8 +89,8 @@ Effect size interpretation
 
 Risk assessment (Type I/II errors)
 
-Key Findings
-Statistical Significance:
+## Key Findings
+### Statistical Significance:
 
 Experimental group showed 61.16% CTR vs 19.89% for control
 
@@ -98,13 +98,13 @@ P-value < 0.0001 (Reject null hypothesis)
 
 Z-score = 58.07 (Exceeds critical value)
 
-Practical Significance:
+### Practical Significance:
 
 Difference in CTR (41.27%) exceeds MDE threshold (10%)
 
 95% CI: (41.03%, 41.51%) doesn't contain zero
 
-Visual Evidence:
+### Visual Evidence:
 
 Clear separation in CTR distributions between groups
 
