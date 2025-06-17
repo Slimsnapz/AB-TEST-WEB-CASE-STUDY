@@ -102,7 +102,7 @@ Z-score = 58.07 (Exceeds critical value)
 
 Difference in CTR (41.27%) exceeds MDE threshold (10%)
 
-95% CI: (41.03%, 41.51%) doesn't contain zero
+95% CI: (39.91%, 42.63%) doesn't contain zero
 
 ### Visual Evidence:
 
