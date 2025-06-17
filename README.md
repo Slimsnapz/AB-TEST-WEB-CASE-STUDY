@@ -112,7 +112,7 @@ Test statistic falls in rejection region
 
 Confidence interval demonstrates substantial improvement
 
-Business Implications
+## Business Implications
 The analysis provides strong evidence that the redesigned interface:
 
 Significantly improves user engagement (p < 0.0001)
